@@ -1,0 +1,42 @@
+.main{
+    background-color: lavenderblush;
+    margin: 0 auto;
+    padding: 2px 2px auto
+    overflow: hidden;
+}
+
+.row{
+    height: max-content;
+    margin: 0 2px auto;
+    overflow: hidden;
+}
+#display1{
+    margin: 1px 0;
+    text-align: right;
+    font-size: 18px;
+    color: lightpink;
+    width: 270px;
+    height: 18px;
+}
+#display2{
+    background-color: rosybrown;
+    margin: 1px 0;
+    text-align: right;
+    font-size: 18px;
+    color: lightpink;
+    width: 273px;
+    height: 18px;
+}
+button {
+    background-color: palevioletred;
+    font-size: x large;
+    width: 70px;
+    height: 70px;
+    float: left;
+}
+button:hover {
+    background-color: lightpink;
+}
+button:hover {
+    background-color: lightyellow;
+}

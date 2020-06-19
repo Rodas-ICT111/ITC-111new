@@ -1,0 +1,32 @@
+
+    header {
+        background-color: aliceblue; 
+        color: black; 
+        text-align: center; padding: 50px;
+    
+    }
+    img {
+        width: 50%;
+        height: 50%;
+    }
+
+body{
+    background-image: url(Gladys.jpg);
+    image-orientation: center;
+}
+div.box {
+
+    text-align: center;
+}
+div.container {
+   text-align: center;
+    background-color: grey;
+
+}
+
+footer{
+    background-color: white ;
+    color: black; 
+    text-align: center; 
+    padding: 5px; 
+    clear: both;
